@@ -43,4 +43,3 @@ By saving meta data estimates of position or map elements on a high levels, the 
 
 5. Superimposed on an updated food map (from local signalling of agents that caused changes of it), it gives us a prediction how the map looks like before the process reitterates from point 3.
 
-For more information about the internal structural idea, check out https://github.com/PhilNrbts/EvoGame/edit/master/local_indicator.md
