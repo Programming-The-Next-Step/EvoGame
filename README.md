@@ -1,4 +1,4 @@
-# Evo_simulation
+# EvoGame
 
 ## Description
 
